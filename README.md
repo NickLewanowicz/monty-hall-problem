@@ -16,3 +16,5 @@ _How to run:_
 `Run command: python test_monty_hall.py`
 
 You will be prompted to input a number of iterations and weather you want to simulate switching your guess and not switching your guess. 
+
+The console will simulate `X` number of monty hall plays and return a percentage of those games that were won.
